@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roumo-shop-api-dto" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roumo-shop-api-dto/roumo-shop-api-member-dto" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roumo-shop-api-dto/roumo-shop-api-pay-dto" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roumo-shop-api-dto/roumo-shop-api-product-dto" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roumo-shop-api-dto/roumo-shop-api-weixin-dto" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roumo-shop-basics" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roumo-shop-basics/roumo-shop-basics-elk-kafka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roumo-shop-basics/roumo-shop-basics-springcloud-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roumo-shop-basics/roumo-shop-basics-springcloud-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roumo-shop-basics/roumo-shop-basics-xxl-sso-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roumo-shop-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roumo-shop-common/roumo-shop-common-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roumo-shop-common/roumo-shop-common-web-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roumo-shop-portal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roumo-shop-portal/roumo-shop-portal-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roumo-shop-portal/roumo-shop-portal-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roumo-shop-service-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roumo-shop-service-api/roumo-shop-service-api-goods" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roumo-shop-service-api/roumo-shop-service-api-member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roumo-shop-service-api/roumo-shop-service-api-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roumo-shop-service-api/roumo-shop-service-api-weixin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roumo-shop-service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roumo-shop-service-impl/roumo-shop-service-goods" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roumo-shop-service-impl/roumo-shop-service-member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roumo-shop-service-impl/roumo-shop-service-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roumo-shop-service-impl/roumo-shop-service-weixin" charset="UTF-8" />
+  </component>
+</project>

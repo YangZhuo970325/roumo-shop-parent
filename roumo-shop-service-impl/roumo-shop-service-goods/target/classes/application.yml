@@ -1,0 +1,39 @@
+###服务启动端口号
+server:
+  port: 8500
+###服务名称(服务注册到eureka名称)
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8100/eureka
+
+
+
+spring:
+  application:
+    name:  app-hand-goods
+  redis:
+    host: 192.168.130.148
+    port: 6379
+    jedis:
+      pool:
+        max-idle: 100
+        min-idle: 1
+        max-active: 1000
+        max-wait: -1ms
+###数据库相关连接
+  datasource:
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.130.148:13306/RoumoGoods?useUnicode=true&characterEncoding=UTF-8
+  data:
+    elasticsearch:
+    ####集群名称
+     cluster-name: elasticsearch-cluster
+    ####地址
+     cluster-nodes: 192.168.130.148:9300
+
+  kafka:
+    # kafka服务器地址(可以多个)
+    bootstrap-servers: 192.168.130.148:9092

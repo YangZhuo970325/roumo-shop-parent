@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/roumo-shop-api-dto/roumo-shop-api-member-dto/roumo-shop-api-member-dto.iml" filepath="$PROJECT_DIR$/roumo-shop-api-dto/roumo-shop-api-member-dto/roumo-shop-api-member-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roumo-shop-api-dto/roumo-shop-api-pay-dto/roumo-shop-api-pay-dto.iml" filepath="$PROJECT_DIR$/roumo-shop-api-dto/roumo-shop-api-pay-dto/roumo-shop-api-pay-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roumo-shop-api-dto/roumo-shop-api-product-dto/roumo-shop-api-product-dto.iml" filepath="$PROJECT_DIR$/roumo-shop-api-dto/roumo-shop-api-product-dto/roumo-shop-api-product-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roumo-shop-api-dto/roumo-shop-api-weixin-dto/roumo-shop-api-weixin-dto.iml" filepath="$PROJECT_DIR$/roumo-shop-api-dto/roumo-shop-api-weixin-dto/roumo-shop-api-weixin-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roumo-shop-basics/roumo-shop-basics.iml" filepath="$PROJECT_DIR$/roumo-shop-basics/roumo-shop-basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roumo-shop-basics/roumo-shop-basics-elk-kafka/roumo-shop-basics-elk-kafka.iml" filepath="$PROJECT_DIR$/roumo-shop-basics/roumo-shop-basics-elk-kafka/roumo-shop-basics-elk-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roumo-shop-basics/roumo-shop-basics-springcloud-eureka/roumo-shop-basics-springcloud-eureka.iml" filepath="$PROJECT_DIR$/roumo-shop-basics/roumo-shop-basics-springcloud-eureka/roumo-shop-basics-springcloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roumo-shop-basics/roumo-shop-basics-springcloud-zuul/roumo-shop-basics-springcloud-zuul.iml" filepath="$PROJECT_DIR$/roumo-shop-basics/roumo-shop-basics-springcloud-zuul/roumo-shop-basics-springcloud-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roumo-shop-basics/roumo-shop-basics-xxl-sso-server/roumo-shop-basics-xxl-sso-server.iml" filepath="$PROJECT_DIR$/roumo-shop-basics/roumo-shop-basics-xxl-sso-server/roumo-shop-basics-xxl-sso-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roumo-shop-common/roumo-shop-common.iml" filepath="$PROJECT_DIR$/roumo-shop-common/roumo-shop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roumo-shop-common/roumo-shop-common-core/roumo-shop-common-core.iml" filepath="$PROJECT_DIR$/roumo-shop-common/roumo-shop-common-core/roumo-shop-common-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roumo-shop-common/roumo-shop-common-web-core/roumo-shop-common-web-core.iml" filepath="$PROJECT_DIR$/roumo-shop-common/roumo-shop-common-web-core/roumo-shop-common-web-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roumo-shop-parent.iml" filepath="$PROJECT_DIR$/roumo-shop-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roumo-shop-portal/roumo-shop-portal.iml" filepath="$PROJECT_DIR$/roumo-shop-portal/roumo-shop-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roumo-shop-portal/roumo-shop-portal-pay/roumo-shop-portal-pay.iml" filepath="$PROJECT_DIR$/roumo-shop-portal/roumo-shop-portal-pay/roumo-shop-portal-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roumo-shop-portal/roumo-shop-portal-web/roumo-shop-portal-web.iml" filepath="$PROJECT_DIR$/roumo-shop-portal/roumo-shop-portal-web/roumo-shop-portal-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roumo-shop-service-api/roumo-shop-service-api-goods/roumo-shop-service-api-goods.iml" filepath="$PROJECT_DIR$/roumo-shop-service-api/roumo-shop-service-api-goods/roumo-shop-service-api-goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roumo-shop-service-api/roumo-shop-service-api-member/roumo-shop-service-api-member.iml" filepath="$PROJECT_DIR$/roumo-shop-service-api/roumo-shop-service-api-member/roumo-shop-service-api-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roumo-shop-service-api/roumo-shop-service-api-pay/roumo-shop-service-api-pay.iml" filepath="$PROJECT_DIR$/roumo-shop-service-api/roumo-shop-service-api-pay/roumo-shop-service-api-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roumo-shop-service-api/roumo-shop-service-api-weixin/roumo-shop-service-api-weixin.iml" filepath="$PROJECT_DIR$/roumo-shop-service-api/roumo-shop-service-api-weixin/roumo-shop-service-api-weixin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roumo-shop-service-impl/roumo-shop-service-goods/roumo-shop-service-goods.iml" filepath="$PROJECT_DIR$/roumo-shop-service-impl/roumo-shop-service-goods/roumo-shop-service-goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roumo-shop-service-impl/roumo-shop-service-impl.iml" filepath="$PROJECT_DIR$/roumo-shop-service-impl/roumo-shop-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roumo-shop-service-impl/roumo-shop-service-member/roumo-shop-service-member.iml" filepath="$PROJECT_DIR$/roumo-shop-service-impl/roumo-shop-service-member/roumo-shop-service-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roumo-shop-service-impl/roumo-shop-service-pay/roumo-shop-service-pay.iml" filepath="$PROJECT_DIR$/roumo-shop-service-impl/roumo-shop-service-pay/roumo-shop-service-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roumo-shop-service-impl/roumo-shop-service-weixin/roumo-shop-service-weixin.iml" filepath="$PROJECT_DIR$/roumo-shop-service-impl/roumo-shop-service-weixin/roumo-shop-service-weixin.iml" />
+    </modules>
+  </component>
+</project>

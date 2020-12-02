@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="roumo-shop-api-member-dto" />
+        <module name="roumo-shop-api-pay-dto" />
+        <module name="roumo-shop-api-product-dto" />
+        <module name="roumo-shop-api-weixin-dto" />
+        <module name="roumo-shop-basics-elk-kafka" />
+        <module name="roumo-shop-basics-springcloud-eureka" />
+        <module name="roumo-shop-basics-springcloud-zuul" />
+        <module name="roumo-shop-basics-xxl-sso-server" />
+        <module name="roumo-shop-common-core" />
+        <module name="roumo-shop-common-web-core" />
+        <module name="roumo-shop-portal-pay" />
+        <module name="roumo-shop-portal-web" />
+        <module name="roumo-shop-service-api-goods" />
+        <module name="roumo-shop-service-api-member" />
+        <module name="roumo-shop-service-api-pay" />
+        <module name="roumo-shop-service-api-weixin" />
+        <module name="roumo-shop-service-goods" />
+        <module name="roumo-shop-service-member" />
+        <module name="roumo-shop-service-pay" />
+        <module name="roumo-shop-service-weixin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="roumo-shop-api-dto" target="1.8" />
+      <module name="roumo-shop-api-entities-api" target="1.8" />
+      <module name="roumo-shop-api-member-dto" target="1.8" />
+      <module name="roumo-shop-api-pay-dto" target="1.8" />
+      <module name="roumo-shop-api-product-dto" target="1.8" />
+      <module name="roumo-shop-api-weixin-dto" target="1.8" />
+      <module name="roumo-shop-basics" target="1.8" />
+      <module name="roumo-shop-basics-elk-kafka" target="1.8" />
+      <module name="roumo-shop-basics-springcloud-eureka" target="1.8" />
+      <module name="roumo-shop-basics-springcloud-zuul" target="1.8" />
+      <module name="roumo-shop-basics-xxl-sso-server" target="1.8" />
+      <module name="roumo-shop-common" target="1.8" />
+      <module name="roumo-shop-common-core" target="1.8" />
+      <module name="roumo-shop-common-web-core" target="1.8" />
+      <module name="roumo-shop-parent" target="1.8" />
+      <module name="roumo-shop-portal" target="1.8" />
+      <module name="roumo-shop-portal-pay" target="1.8" />
+      <module name="roumo-shop-portal-web" target="1.8" />
+      <module name="roumo-shop-service-api" target="1.8" />
+      <module name="roumo-shop-service-api-goods" target="1.8" />
+      <module name="roumo-shop-service-api-member" target="1.8" />
+      <module name="roumo-shop-service-api-member-entity" target="1.8" />
+      <module name="roumo-shop-service-api-pay" target="1.8" />
+      <module name="roumo-shop-service-api-weixin" target="1.8" />
+      <module name="roumo-shop-service-api-weixin-entity" target="1.8" />
+      <module name="roumo-shop-service-goods" target="1.8" />
+      <module name="roumo-shop-service-impl" target="1.8" />
+      <module name="roumo-shop-service-member" target="1.8" />
+      <module name="roumo-shop-service-pay" target="1.8" />
+      <module name="roumo-shop-service-weixin" target="1.8" />
+      <module name="roumoshopapipaydto" target="1.8" />
+      <module name="roumoshopserviceapipay" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,30 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /xxl-sso-server
+spring:
+  application:
+    name: app-hand-xxl-sso-server
+  freemarker:
+    charset: UTF-8
+    request-context-attribute: request
+    settings:
+      number_format: 0.##########
+    suffix: .ftl
+    templateLoaderPath: classpath:/templates/
+  mvc:
+    static-path-pattern: /static/**
+  resources:
+    static-locations: classpath:/static/
+
+xxl:
+  sso:
+    redis:
+      address: redis://192.168.130.148:6379
+      expire:
+        minute: 1440
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8100/eureka

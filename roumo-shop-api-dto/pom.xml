@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>roumo-shop-parent</artifactId>
+        <groupId>com.hand</groupId>
+        <version>1.0-RELEASE</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>roumo-shop-api-dto</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>roumo-shop-api-member-dto</module>
+        <module>roumo-shop-api-weixin-dto</module>
+        <module>roumo-shop-api-product-dto</module>
+        <module>roumo-shop-api-pay-dto</module>
+    </modules>
+
+    <dependencies>
+        <!-- swagger依赖 -->
+        <dependency>
+            <groupId>com.spring4all</groupId>
+            <artifactId>swagger-spring-boot-starter</artifactId>
+            <version>1.7.0.RELEASE</version>
+        </dependency>
+    </dependencies>
+
+
+</project>

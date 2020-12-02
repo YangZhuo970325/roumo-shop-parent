@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>roumo-shop-parent</artifactId>
+        <groupId>com.hand</groupId>
+        <version>1.0-RELEASE</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>roumo-shop-service-api</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>roumo-shop-service-api-weixin</module>
+        <module>roumo-shop-service-api-member</module>
+        <module>roumo-shop-service-api-goods</module>
+        <module>roumo-shop-service-api-pay</module>
+    </modules>
+
+    <dependencies>
+        <!-- 引入工具类 -->
+        <dependency>
+            <artifactId>roumo-shop-common-core</artifactId>
+            <groupId>com.hand</groupId>
+            <version>1.0-RELEASE</version>
+        </dependency>
+    </dependencies>
+
+    <distributionManagement>
+        <repository>
+            <id>roumo</id>
+            <url>http://192.168.130.144:8081/repository/roumo-release/</url>
+        </repository>
+    </distributionManagement>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-deploy-plugin</artifactId>
+                <version>2.7</version>
+            </plugin>
+            <!-- 发布源码插件 -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-source-plugin</artifactId>
+                <version>2.2.1</version>
+                <executions>
+                    <execution>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>jar</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
+
+
+</project>
